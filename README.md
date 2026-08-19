@@ -31,10 +31,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 ## `ABOUT ME`
 
 I'm a **Computer Science Engineering student** passionate about building practical software
@@ -44,22 +40,22 @@ Data Structures & Algorithms, AI, and Generative AI**.
 <br>
 
 💻 **Full-Stack Development**
-&nbsp; • &nbsp;
+  •  
 🧠 **DSA & Problem Solving**
-&nbsp; • &nbsp;
+  •  
 🤖 **AI & GenAI**
-&nbsp; • &nbsp;
+  •  
 🚀 **Project Development**
 
-<br>
-
-
+<br><br>
 
 > **Code. Learn. Build. Repeat.**
 
 </div>
 
 ---
+
+<div align="center">
 
 ## `TECHNOLOGIES`
 
@@ -72,7 +68,7 @@ Data Structures & Algorithms, AI, and Generative AI**.
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white">
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white">
@@ -80,7 +76,7 @@ Data Structures & Algorithms, AI, and Generative AI**.
 <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=white">
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=white">
@@ -164,32 +160,6 @@ My Harvard CS50 learning journey containing selected weeks, exercises, and progr
 
 <div align="center">
 
----
-
-<div align="center">
-
----
-
-<div align="center">
----
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-
 ## `GITHUB STATISTICS`
 
 <br>
@@ -199,12 +169,12 @@ src="https://streak-stats.demolab.com/?user=VeerlapallyHarika&theme=dark&hide_bo
 width="75%"
 alt="Veerlapally Harika GitHub Statistics">
 
-<br>
+<br><br>
 
 <sub>
 
-**TOTAL CONTRIBUTIONS** &nbsp; • &nbsp;
-**CURRENT STREAK** &nbsp; • &nbsp;
+**TOTAL CONTRIBUTIONS**   •  
+**CURRENT STREAK**   •  
 **LONGEST STREAK**
 
 </sub>
@@ -212,6 +182,8 @@ alt="Veerlapally Harika GitHub Statistics">
 </div>
 
 ---
+
+<div align="center">
 
 ## `CONTRIBUTION GRAPH`
 
@@ -228,10 +200,7 @@ alt="Veerlapally Harika GitHub Contribution Graph">
 
 <div align="center">
 
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile!
+## ✨ Thanks for visiting my profile!
 
 <br>
 
@@ -247,7 +216,7 @@ src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-161b22?style=for-the-badge&l
 alt="Explore GitHub">
 </a>
 
-<br>
+<br><br>
 
 <sub>
 Made with curiosity, code, and a lot of learning. 💜
